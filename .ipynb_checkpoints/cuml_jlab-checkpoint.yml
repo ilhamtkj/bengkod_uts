@@ -1,0 +1,18 @@
+name: cuml_jlab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - jupyterlab
+  - cupy
+  - scipy
+  - numpy
+  - scikit-learn
+  - cuda-version
+  - matplotlib
+  - pandas
+  - cuml
+  - seaborn
+  - ipykernel
+  - jupyterlab_execute_time
+prefix: /home/ilham/.local/opt/miniforge3/envs/cuml_jlab
