@@ -1,0 +1,18 @@
+name: jlab
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - scikit-learn
+  - pandas
+  - seaborn
+  - numpy
+  - matplotlib
+  - imbalanced-learn
+  - jupyterlab_execute_time
+  - scipy
+  - threadpoolctl
+  - ipykernel
+  - optuna
+  - conda-lock
+prefix: /home/ilham/.local/opt/miniforge3/envs/jlab
